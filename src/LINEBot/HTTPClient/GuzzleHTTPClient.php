@@ -18,7 +18,7 @@ namespace LINE\LINEBot\HTTPClient;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\BadResponseException;
-use GuzzleHttp\Stream\Stream;
+use GuzzleHttp\Psr7\Stream;
 use LINE\LINEBot;
 use LINE\LINEBot\DownloadedContents;
 use LINE\LINEBot\Exception\ContentsDownloadingFailedException;
