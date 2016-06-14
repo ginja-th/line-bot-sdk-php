@@ -1,18 +1,27 @@
 {
-  "name": "linecorp/line-bot-sdk",
-  "description": "SDK of the LINE BOT API Trial for PHP",
+  "name": "ginja-th/line-bot-sdk",
+  "description": "Ginja fork of the LINE BOT API Trial SDK for PHP",
   "keywords": [
     "LINE",
     "bot",
-    "sdk"
+    "sdk",
+    "chat ui"
   ],
   "type": "library",
-  "homepage": "http://github.com/line/line-bot-sdk-php",
+  "homepage": "http://github.com/ginja-th/line-bot-sdk-php",
   "license": "Apache License Version 2.0",
   "authors": [
     {
       "name": "moznion",
       "email": "moznion@gmail.com"
+    },
+    {
+      "name": "Corey",
+      "email": "corey@ginja.co.th"
+    },
+    {
+      "name": "Wichanan",
+      "email": "wichanan@ginja.co.th"
     }
   ],
   "require": {
